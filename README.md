@@ -9,4 +9,4 @@ Output:
 
 ![Alt text](https://github.com/richaeell/LED-Paint-App-/blob/master/Screenshot/HEXScreenShpot.jpeg)
 
-Note: Most buttons are not implemented. 
+Note: Only pen, ereser, clear all and generate code buttons work. 
